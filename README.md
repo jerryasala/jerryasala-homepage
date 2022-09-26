@@ -11,17 +11,13 @@ Additionally, this project gives me the chance to practice some of the concepts 
 - HTML5
 - CSS
 
-
-
 ## Screenshots:
-
-
 
 ## Link to website:
 - Author: Jeremiah Asala
 - https://jerryasala.github.io
 
-
+## Video demonstration:
 
 ## Class:
 #### This project is part of CS5610: Web Development taught by Professor John Alexis Guerra Gomez @ Northeastern University (Bay Area campuses) in Fall 2022. 
