@@ -29,6 +29,11 @@ body {
   color: #ddd9e8;
 }
 
+.menu-item:hover {
+  text-decoration: underline;
+  color: #ca9ec3;
+}
+
 .main {
   display: flex;
   justify-content: center;
@@ -50,11 +55,6 @@ body {
   font-family: "Red Hat Display", sans-serif;
   color: #ddd9e8;
   text-align: center;
-}
-
-.menu-item:hover {
-  text-decoration: underline;
-  color: #83bab3;
 }
 
 .name {
@@ -100,19 +100,19 @@ body {
   text-decoration: none;
   font-family: "Merienda", cursive;
   padding: 0 30px;
-  color: #ddd9e8;
+  color: #ca9ec3;
 }
 
 .connect-item:hover {
   text-decoration: underline;
-  color: #83bab3;
+  color: #ddd9e8;
 }
 
 .headers {
   font-family: "Red Hat Display", sans-serif;
   font-weight: bold;
-  font-size: 80px;
-  color: #ddd9e8;
+  font-size: 60px;
+  color: oldlace;
   text-align: left;
   margin: 10px 0;
 }
@@ -122,12 +122,21 @@ body {
   width: 900px;
 }
 
+.profile-image {
+  border-radius: 20px;
+  height: 250px;
+  width: 50%;
+  object-fit: cover;
+  object-position: top left;
+  margin-bottom: 25px;
+}
+
 .about-me {
-  font-family: "Red Hat Display", sans-serif;
-  font-weight: 100;
+  font-family: "Poppins", sans-serif;
+  font-weight: lighter;
   color: #ddd9e8;
   padding-bottom: 40px;
-  font-size: 20px;
+  font-size: 23px;
 }
 
 .tech-container {
@@ -136,29 +145,38 @@ body {
 }
 
 .education-container {
-  margin-bottom: 30px;
+  margin-bottom: 50px;
 }
 
 .skills-container {
-  margin-bottom: 30px;
+  margin-bottom: 50px;
 }
 
 .project-container {
-  margin-bottom: 30px;
+  margin-bottom: 50px;
 }
 
 .education {
-  font-family: "Red Hat Display", sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 100;
   color: #ddd9e8;
-  font-size: 20px;
+  font-size: 23px;
+}
+
+.edu-duration {
+  font-family: "Poppins", sans-serif;
+  font-weight: 100;
+  color: #ddd9e8;
+  font-size: 18px;
+  font-style: italic;
+  margin-bottom: 10px;
 }
 
 .skills {
-  font-family: "Red Hat Display", sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 100;
   color: #ddd9e8;
-  font-size: 20px;
+  font-size: 23px;
 }
 
 .project-name {
@@ -178,11 +196,8 @@ body {
 }
 
 li {
-  font-family: "Red Hat Display", sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 100;
   color: #ddd9e8;
-  font-size: 20px;
-}
-
-.linkedin-button {
+  font-size: 23px;
 }
