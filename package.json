@@ -1,7 +1,7 @@
 {
   "name": "jerryasala.github.io",
   "version": "1.0.0",
-  "description": "this is my personal portfolio website made using HTML5 and CSS3",
+  "description": "this is my personal portfolio website made using plain HTML5 and CSS3",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
