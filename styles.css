@@ -1,0 +1,178 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #2d1f53;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.right-menu {
+  display: flex;
+  justify-content: space-around;
+  font-family: "Red Hat Display", sans-serif;
+}
+
+.menu-item {
+  font-size: 30px;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 12px 30px;
+  font-family: "Red Hat Display", sans-serif;
+  color: #ddd9e8;
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+}
+
+.intro-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding-top: 180px;
+  width: 900px;
+}
+
+.main-greeting {
+  color: black;
+  font-size: 80px;
+  font-weight: bold;
+  font-family: "Red Hat Display", sans-serif;
+  color: #ddd9e8;
+  text-align: center;
+}
+
+.menu-item:hover {
+  text-decoration: underline;
+  color: #83bab3;
+}
+
+.name {
+  text-decoration: none;
+  color: #83bab3;
+}
+
+.greeting {
+  color: black;
+  font-size: 25px;
+  padding: 10px 0;
+  font-family: "Red Hat Display", sans-serif;
+  color: #ddd9e8;
+  text-align: center;
+}
+
+.connect-container {
+  display: flex;
+  justify-content: flex-end;
+  padding-top: 50px;
+}
+
+.connect {
+  font-family: "Red Hat Display", sans-serif;
+  font-size: 25px;
+  font-weight: bold;
+  color: #ddd9e8;
+}
+
+.connect-items {
+  display: flex;
+  justify-content: space-between;
+}
+
+.connect-item {
+  font-size: 25px;
+  font-weight: bold;
+  text-decoration: none;
+  font-family: "Red Hat Display", sans-serif;
+  padding: 0 30px;
+  color: #ddd9e8;
+}
+
+.headers {
+  font-family: "Red Hat Display", sans-serif;
+  font-weight: bold;
+  font-size: 80px;
+  color: #ddd9e8;
+  text-align: left;
+  margin: 10px 0;
+}
+
+.about-me-container {
+  padding-top: 50px;
+  width: 900px;
+}
+
+.about-me {
+  font-family: "Red Hat Display", sans-serif;
+  font-weight: 100;
+  color: #ddd9e8;
+  padding-bottom: 40px;
+  font-size: 20px;
+}
+
+.tech-container {
+  padding-top: 50px;
+  width: 900px;
+}
+
+.education-container {
+  margin-bottom: 30px;
+}
+
+.skills-container {
+  margin-bottom: 30px;
+}
+
+.project-container {
+  margin-bottom: 30px;
+}
+
+.education {
+  font-family: "Red Hat Display", sans-serif;
+  font-weight: 100;
+  color: #ddd9e8;
+  font-size: 20px;
+}
+
+.skills {
+  font-family: "Red Hat Display", sans-serif;
+  font-weight: 100;
+  color: #ddd9e8;
+  font-size: 20px;
+}
+
+.project-name {
+  font-family: "Red Hat Display", sans-serif;
+  font-weight: bold;
+  color: #ddd9e8;
+  font-size: 30px;
+}
+
+.project-institution {
+  font-family: "Red Hat Display", sans-serif;
+  font-weight: 100;
+  font-style: italic;
+  color: #ddd9e8;
+  font-size: 25px;
+  margin-bottom: 8px;
+}
+
+li {
+  font-family: "Red Hat Display", sans-serif;
+  font-weight: 100;
+  color: #ddd9e8;
+  font-size: 20px;
+}
+
+.linkedin-button {
+}
