@@ -127,7 +127,7 @@ body {
   height: 250px;
   width: 50%;
   object-fit: cover;
-  object-position: top left;
+  object-position: 25% 25%;
   margin-bottom: 25px;
 }
 
