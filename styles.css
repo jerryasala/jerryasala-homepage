@@ -128,7 +128,7 @@ body {
   width: 50%;
   object-fit: cover;
   object-position: 25% 25%;
-  margin-bottom: 25px;
+  margin: 25px 0;
 }
 
 .about-me {
@@ -161,6 +161,10 @@ body {
   font-weight: 100;
   color: #ddd9e8;
   font-size: 23px;
+}
+
+.school {
+  font-weight: bold;
 }
 
 .edu-duration {
