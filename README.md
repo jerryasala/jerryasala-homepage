@@ -15,6 +15,8 @@ Additionally, this project gives me the chance to practice some of the concepts 
 
 ## Screenshots:
 
+![homepage screenshot] (https://drive.google.com/file/d/16T_PugiRlp43p7M6nBiLlpyomj6GdY9D/view?usp=sharing)
+
 ## Project setup/how to use:
 
 - Install Sublime Text Editor - https://www.sublimetext.com/download
@@ -31,6 +33,9 @@ Additionally, this project gives me the chance to practice some of the concepts 
 - https://jerryasala.github.io
 
 ## Video demonstration/presentation:
+
+- Slides: https://docs.google.com/presentation/d/1R_TeXE4z6lrXS1WgSQPSW91W9HldcBQhiT5yAjrPAFM/edit?usp=sharing
+- Video recording: https://youtu.be/cqvnbso1IAM
 
 ## Class:
 
