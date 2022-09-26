@@ -21,7 +21,7 @@ body {
 }
 
 .menu-item {
-  font-size: 30px;
+  font-size: 25px;
   font-weight: bold;
   text-decoration: none;
   padding: 12px 30px;
@@ -39,13 +39,13 @@ body {
   flex-direction: column;
   justify-content: flex-start;
   align-items: center;
-  padding-top: 180px;
+  padding-top: 130px;
   width: 900px;
 }
 
 .main-greeting {
   color: black;
-  font-size: 80px;
+  font-size: 90px;
   font-weight: bold;
   font-family: "Red Hat Display", sans-serif;
   color: #ddd9e8;
@@ -59,43 +59,53 @@ body {
 
 .name {
   text-decoration: none;
-  color: #83bab3;
+  color: #ca9ec3;
 }
 
 .greeting {
   color: black;
-  font-size: 25px;
+  font-size: 30px;
   padding: 10px 0;
-  font-family: "Red Hat Display", sans-serif;
+  font-family: "Fira Sans Extra Condensed", sans-serif;
+  font-weight: Medium 500;
   color: #ddd9e8;
   text-align: center;
 }
 
 .connect-container {
   display: flex;
-  justify-content: flex-end;
-  padding-top: 50px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 80px;
 }
 
 .connect {
-  font-family: "Red Hat Display", sans-serif;
-  font-size: 25px;
+  font-family: "Merienda", cursive;
+  font-size: 20px;
   font-weight: bold;
   color: #ddd9e8;
+  margin-bottom: 20px;
 }
 
 .connect-items {
   display: flex;
   justify-content: space-between;
+  margin-bottom: 20px;
 }
 
 .connect-item {
-  font-size: 25px;
+  font-size: 20px;
   font-weight: bold;
   text-decoration: none;
-  font-family: "Red Hat Display", sans-serif;
+  font-family: "Merienda", cursive;
   padding: 0 30px;
   color: #ddd9e8;
+}
+
+.connect-item:hover {
+  text-decoration: underline;
+  color: #83bab3;
 }
 
 .headers {
