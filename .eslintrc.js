@@ -1,7 +1,8 @@
 module.exports = {
     env: {
         browser: true,
-        es2021: true,
+        amd: true,
+        node: true,
     },
     extends: "eslint:recommended",
     overrides: [],
@@ -11,11 +12,8 @@ module.exports = {
     },
     rules: {
         indent: ["error", 4],
-        "linebreak-style": [
-            "error",
-            process.platform === "win64" ? "windows" : "unix",
-        ],
+        "linebreak-style": ["error", "unix"],
         quotes: ["error", "double"],
-        semi: ["error", "never"],
+        semi: ["error", "always"],
     },
 };
