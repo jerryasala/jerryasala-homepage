@@ -15,7 +15,7 @@ Additionally, this project gives me the chance to practice some of the concepts 
 
 ## Screenshots:
 
-![homepage screenshot] (https://drive.google.com/file/d/16T_PugiRlp43p7M6nBiLlpyomj6GdY9D/view?usp=sharing)
+![jerryasala-homepage-screenshot](https://user-images.githubusercontent.com/97819243/192268387-830420c7-b4fb-4b61-9eb5-c54c0a197957.png)
 
 ## Project setup/how to use:
 
